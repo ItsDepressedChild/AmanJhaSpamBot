@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>𝙃𝙚𝙖𝙧𝙩 𝙃𝙖𝙘𝙠𝙚𝙧 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩</b>
+  <b>Aman Jha 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/AT-WORLDS-END/HeartHackerSpamBot?style=flat-square&color=orange)](https://github.com/AT-WORLDS-END/HeartHackerSpamBot/fork)
